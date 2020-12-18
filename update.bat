@@ -1,4 +1,4 @@
 git add .
-git commit -m "浣犵殑淇敼淇℃伅"
+git commit -m "你的修改信息"
 git push
 pause
